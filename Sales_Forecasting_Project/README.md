@@ -34,10 +34,6 @@ The project uses the Superstore sales dataset containing information such as:
 * Interactive Power BI dashboard
 * Sales forecasting
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
 ## Files in Repository
 
 * `train.csv` – Dataset
